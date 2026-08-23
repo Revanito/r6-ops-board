@@ -4,7 +4,7 @@ import os
 import re
 import subprocess
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
 import sources
@@ -1042,9 +1042,15 @@ def safe_build_and_commit():
         return True  # assume the worst so we retry at the short interval, not the 24h one
 
 
+def _seconds_until_next_local_midnight():
+    now = datetime.now(tz=LOCAL_TZ)
+    next_midnight = (now + timedelta(days=1)).replace(hour=0, minute=0, second=0, microsecond=0)
+    return (next_midnight - now).total_seconds()
+
+
 def main():
     log.info(
-        "r6-site starting, active interval=%d min, idle interval=%d min (event window: next %g h)",
+        "r6-site starting, active interval=%d min, idle: daily at local midnight (capped at %d min) (event window: next %g h)",
         BUILD_INTERVAL_MINUTES, IDLE_BUILD_INTERVAL_MINUTES, ACTIVE_LOOKAHEAD_HOURS,
     )
 
@@ -1053,9 +1059,18 @@ def main():
         event_active = safe_build_and_commit()
 
     while True:
-        interval_minutes = BUILD_INTERVAL_MINUTES if event_active else IDLE_BUILD_INTERVAL_MINUTES
-        log.info("next build in %d min (%s)", interval_minutes, "event window" if event_active else "idle")
-        time.sleep(interval_minutes * 60)
+        if event_active:
+            sleep_seconds = BUILD_INTERVAL_MINUTES * 60
+            log.info("next build in %d min (event window)", BUILD_INTERVAL_MINUTES)
+        else:
+            # A rolling "sleep N hours" idle interval drifts and never lands
+            # on a predictable time - anchoring to local midnight instead
+            # gives a real daily refresh (matches delta-ops-board's same
+            # fix). IDLE_BUILD_INTERVAL_MINUTES still caps the wait
+            # (relevant right after midnight, when it's otherwise ~24h away).
+            sleep_seconds = min(_seconds_until_next_local_midnight(), IDLE_BUILD_INTERVAL_MINUTES * 60)
+            log.info("next build in %.0f min (idle, next local midnight or cap)", sleep_seconds / 60)
+        time.sleep(sleep_seconds)
         event_active = safe_build_and_commit()
 
 
