@@ -3,7 +3,7 @@ name: r6-ops-board
 services:
   r6-notifier:
     build: .
-    container_name: r6-notifier
+    container_name: r6-ops-board
     restart: unless-stopped
     command: python main.py
     env_file: .env
@@ -12,7 +12,7 @@ services:
 
   r6-site:
     build: .
-    container_name: r6-site
+    container_name: r6-ops-board-site
     restart: unless-stopped
     command: python webgen.py
     env_file: .env
