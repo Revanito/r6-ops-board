@@ -334,5 +334,23 @@
       "web_url": "https://siege.gg/competitions/183-esports-world-cup-2026"
     },
     "updated": "2026-08-22T07:55:49.116748+00:00"
+  },
+  "185": {
+    "bracket": [],
+    "competition_id": 185,
+    "info": {
+      "date": "Sep 7 – Oct 14, 2026",
+      "flag": "",
+      "location": null,
+      "logo_url": "https://cdn.siege.gg/europe-mena-league-2025.png",
+      "name": "Europe MENA League 2026 Stage 2",
+      "prizepool": "$140,000",
+      "region": "Europe",
+      "teams": [],
+      "type": "Online",
+      "venue": "",
+      "web_url": "https://siege.gg/competitions/185-europe-mena-league-2026-stage-2"
+    },
+    "updated": "2026-09-04T13:31:20.065359+00:00"
   }
 }
