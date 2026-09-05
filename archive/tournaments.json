@@ -367,6 +367,12 @@
       "teams": [
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
+          "logo_url": "https://cdn.siege.gg/org-9-bd-1.png",
+          "name": "Black Dragons",
+          "web_url": "https://siege.gg/teams/900-black-dragons"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/br.svg",
           "logo_url": "https://cdn.siege.gg/org-69-tl-3.png",
           "name": "Team Liquid",
           "web_url": "https://siege.gg/teams/285-team-liquid"
@@ -394,19 +400,13 @@
           "logo_url": "https://cdn.siege.gg/org-1171-fw7m.png",
           "name": "Fluxo W7M",
           "web_url": "https://siege.gg/teams/674-fluxo-w7m"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-9-bd-1.png",
-          "name": "Black Dragons",
-          "web_url": "https://siege.gg/teams/900-black-dragons"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/187-south-america-league-2026-stage-2"
     },
-    "updated": "2026-09-05T18:20:11.816224+00:00"
+    "updated": "2026-09-05T18:30:22.357572+00:00"
   },
   "189": {
     "bracket": [],
