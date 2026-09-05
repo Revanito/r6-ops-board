@@ -367,15 +367,9 @@
       "teams": [
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-150-intz.png",
-          "name": "INTZ",
-          "web_url": "https://siege.gg/teams/915-intz"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-24-faze-1.png",
-          "name": "FaZe Clan",
-          "web_url": "https://siege.gg/teams/50-faze-clan"
+          "logo_url": "https://cdn.siege.gg/org-1017-los.png",
+          "name": "LOS",
+          "web_url": "https://siege.gg/teams/947-los"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
@@ -397,18 +391,6 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-69-tl-3.png",
-          "name": "Team Liquid",
-          "web_url": "https://siege.gg/teams/285-team-liquid"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-9-bd-1.png",
-          "name": "Black Dragons",
-          "web_url": "https://siege.gg/teams/900-black-dragons"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/br.svg",
           "logo_url": "https://cdn.siege.gg/org-1144-loud.png",
           "name": "LOUD",
           "web_url": "https://siege.gg/teams/759-loud"
@@ -421,16 +403,34 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-1017-los.png",
-          "name": "LOS",
-          "web_url": "https://siege.gg/teams/947-los"
+          "logo_url": "https://cdn.siege.gg/org-69-tl-3.png",
+          "name": "Team Liquid",
+          "web_url": "https://siege.gg/teams/285-team-liquid"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/br.svg",
+          "logo_url": "https://cdn.siege.gg/org-150-intz.png",
+          "name": "INTZ",
+          "web_url": "https://siege.gg/teams/915-intz"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/br.svg",
+          "logo_url": "https://cdn.siege.gg/org-24-faze-1.png",
+          "name": "FaZe Clan",
+          "web_url": "https://siege.gg/teams/50-faze-clan"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/br.svg",
+          "logo_url": "https://cdn.siege.gg/org-9-bd-1.png",
+          "name": "Black Dragons",
+          "web_url": "https://siege.gg/teams/900-black-dragons"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/187-south-america-league-2026-stage-2"
     },
-    "updated": "2026-09-05T23:34:06.659913+00:00"
+    "updated": "2026-09-05T23:44:15.900236+00:00"
   },
   "189": {
     "bracket": [],
