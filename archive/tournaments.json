@@ -373,9 +373,15 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-24-faze-1.png",
-          "name": "FaZe Clan",
-          "web_url": "https://siege.gg/teams/50-faze-clan"
+          "logo_url": "https://cdn.siege.gg/org-1186-imp.png",
+          "name": "Imperial Esports",
+          "web_url": "https://siege.gg/teams/877-imperial-esports"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/br.svg",
+          "logo_url": "https://cdn.siege.gg/org-1144-loud.png",
+          "name": "LOUD",
+          "web_url": "https://siege.gg/teams/759-loud"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
@@ -385,21 +391,15 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-1017-los.png",
-          "name": "LOS",
-          "web_url": "https://siege.gg/teams/947-los"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/br.svg",
           "logo_url": "https://cdn.siege.gg/org-69-tl-3.png",
           "name": "Team Liquid",
           "web_url": "https://siege.gg/teams/285-team-liquid"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-1186-imp.png",
-          "name": "Imperial Esports",
-          "web_url": "https://siege.gg/teams/877-imperial-esports"
+          "logo_url": "https://cdn.siege.gg/org-24-faze-1.png",
+          "name": "FaZe Clan",
+          "web_url": "https://siege.gg/teams/50-faze-clan"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
@@ -421,16 +421,16 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-1144-loud.png",
-          "name": "LOUD",
-          "web_url": "https://siege.gg/teams/759-loud"
+          "logo_url": "https://cdn.siege.gg/org-1017-los.png",
+          "name": "LOS",
+          "web_url": "https://siege.gg/teams/947-los"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/187-south-america-league-2026-stage-2"
     },
-    "updated": "2026-09-05T22:53:25.225122+00:00"
+    "updated": "2026-09-05T23:03:35.264551+00:00"
   },
   "189": {
     "bracket": [],
