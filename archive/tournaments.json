@@ -373,15 +373,15 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-1171-fw7m.png",
-          "name": "Fluxo W7M",
-          "web_url": "https://siege.gg/teams/674-fluxo-w7m"
+          "logo_url": "https://cdn.siege.gg/org-24-faze-1.png",
+          "name": "FaZe Clan",
+          "web_url": "https://siege.gg/teams/50-faze-clan"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-9-bd-1.png",
-          "name": "Black Dragons",
-          "web_url": "https://siege.gg/teams/900-black-dragons"
+          "logo_url": "https://cdn.siege.gg/r6x-icon.png",
+          "name": "Lucky Five",
+          "web_url": "https://siege.gg/teams/18-lucky-five"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
@@ -397,21 +397,21 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-24-faze-1.png",
-          "name": "FaZe Clan",
-          "web_url": "https://siege.gg/teams/50-faze-clan"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/br.svg",
           "logo_url": "https://cdn.siege.gg/org-1186-imp.png",
           "name": "Imperial Esports",
           "web_url": "https://siege.gg/teams/877-imperial-esports"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/r6x-icon.png",
-          "name": "Lucky Five",
-          "web_url": "https://siege.gg/teams/18-lucky-five"
+          "logo_url": "https://cdn.siege.gg/org-1171-fw7m.png",
+          "name": "Fluxo W7M",
+          "web_url": "https://siege.gg/teams/674-fluxo-w7m"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/br.svg",
+          "logo_url": "https://cdn.siege.gg/org-9-bd-1.png",
+          "name": "Black Dragons",
+          "web_url": "https://siege.gg/teams/900-black-dragons"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
@@ -430,7 +430,7 @@
       "venue": "",
       "web_url": "https://siege.gg/competitions/187-south-america-league-2026-stage-2"
     },
-    "updated": "2026-09-06T05:40:20.686943+00:00"
+    "updated": "2026-09-06T05:50:30.110242+00:00"
   },
   "189": {
     "bracket": [],
