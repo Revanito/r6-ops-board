@@ -463,6 +463,12 @@
       "region": "Asia-Pacific",
       "teams": [
         {
+          "flag": "https://cdn.siege.gg/flags/un.svg",
+          "logo_url": "https://cdn.siege.gg/org-974-crcl-1.png",
+          "name": "Circular Spheres",
+          "web_url": "https://siege.gg/teams/729-circular-spheres"
+        },
+        {
           "flag": "https://cdn.siege.gg/flags/au.svg",
           "logo_url": "https://cdn.siege.gg/org-1080-manlfo.png",
           "name": "Man eSports LFO",
@@ -503,19 +509,13 @@
           "logo_url": "https://cdn.siege.gg/org-1259-arc.png",
           "name": "Arcade Esports",
           "web_url": "https://siege.gg/teams/969-arcade-esports"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/un.svg",
-          "logo_url": "https://cdn.siege.gg/org-974-crcl-1.png",
-          "name": "Circular Spheres",
-          "web_url": "https://siege.gg/teams/729-circular-spheres"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/190-apac-oceania-league-2026-stage-2"
     },
-    "updated": "2026-09-07T03:53:38.106979+00:00"
+    "updated": "2026-09-07T04:03:48.713211+00:00"
   },
   "191": {
     "bracket": [],
