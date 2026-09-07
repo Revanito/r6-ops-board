@@ -464,12 +464,6 @@
       "teams": [
         {
           "flag": "https://cdn.siege.gg/flags/au.svg",
-          "logo_url": "https://cdn.siege.gg/org-1271-7ven.png",
-          "name": "7VEN",
-          "web_url": "https://siege.gg/teams/971-7ven"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/au.svg",
           "logo_url": "https://cdn.siege.gg/org-811-chiefs.png",
           "name": "Chiefs Esports Club",
           "web_url": "https://siege.gg/teams/967-chiefs-esports-club"
@@ -509,13 +503,19 @@
           "logo_url": "https://cdn.siege.gg/org-1080-manlfo.png",
           "name": "Man eSports LFO",
           "web_url": "https://siege.gg/teams/968-man-esports-lfo"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/au.svg",
+          "logo_url": "https://cdn.siege.gg/org-1271-7ven.png",
+          "name": "7VEN",
+          "web_url": "https://siege.gg/teams/971-7ven"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/190-apac-oceania-league-2026-stage-2"
     },
-    "updated": "2026-09-07T04:13:59.999055+00:00"
+    "updated": "2026-09-07T04:24:11.471978+00:00"
   },
   "191": {
     "bracket": [],
