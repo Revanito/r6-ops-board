@@ -464,18 +464,6 @@
       "teams": [
         {
           "flag": "https://cdn.siege.gg/flags/au.svg",
-          "logo_url": "https://cdn.siege.gg/org-1271-7ven.png",
-          "name": "7VEN",
-          "web_url": "https://siege.gg/teams/971-7ven"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/au.svg",
-          "logo_url": "https://cdn.siege.gg/org-811-chiefs.png",
-          "name": "Chiefs Esports Club",
-          "web_url": "https://siege.gg/teams/967-chiefs-esports-club"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/au.svg",
           "logo_url": "https://cdn.siege.gg/r6x-icon.png",
           "name": "Shaiikademy",
           "web_url": "https://siege.gg/teams/970-shaiikademy"
@@ -509,13 +497,25 @@
           "logo_url": "https://cdn.siege.gg/org-1080-manlfo.png",
           "name": "Man eSports LFO",
           "web_url": "https://siege.gg/teams/968-man-esports-lfo"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/au.svg",
+          "logo_url": "https://cdn.siege.gg/org-1271-7ven.png",
+          "name": "7VEN",
+          "web_url": "https://siege.gg/teams/971-7ven"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/au.svg",
+          "logo_url": "https://cdn.siege.gg/org-811-chiefs.png",
+          "name": "Chiefs Esports Club",
+          "web_url": "https://siege.gg/teams/967-chiefs-esports-club"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/190-apac-oceania-league-2026-stage-2"
     },
-    "updated": "2026-09-07T10:00:00.862784+00:00"
+    "updated": "2026-09-07T10:10:12.073210+00:00"
   },
   "191": {
     "bracket": [],
