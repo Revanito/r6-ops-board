@@ -348,24 +348,6 @@
       "region": "Europe",
       "teams": [
         {
-          "flag": "https://cdn.siege.gg/flags/it.svg",
-          "logo_url": "https://cdn.siege.gg/org-520-hrtc-1.png",
-          "name": "Team Heretics",
-          "web_url": "https://siege.gg/teams/856-team-heretics"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/eu.svg",
-          "logo_url": "https://cdn.siege.gg/org-984-flcn.png",
-          "name": "Team Falcons",
-          "web_url": "https://siege.gg/teams/367-team-falcons"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/un.svg",
-          "logo_url": "https://cdn.siege.gg/org-997-twmi.png",
-          "name": "Twisted Minds",
-          "web_url": "https://siege.gg/teams/641-twisted-minds"
-        },
-        {
           "flag": "https://cdn.siege.gg/flags/eu.svg",
           "logo_url": "https://cdn.siege.gg/org-993-gkay-1.png",
           "name": "Geekay Esports",
@@ -384,6 +366,12 @@
           "web_url": "https://siege.gg/teams/5-fnatic"
         },
         {
+          "flag": "https://cdn.siege.gg/flags/un.svg",
+          "logo_url": "https://cdn.siege.gg/org-997-twmi.png",
+          "name": "Twisted Minds",
+          "web_url": "https://siege.gg/teams/641-twisted-minds"
+        },
+        {
           "flag": "https://cdn.siege.gg/flags/eu.svg",
           "logo_url": "https://cdn.siege.gg/org-313-g2.png",
           "name": "G2 Esports",
@@ -394,6 +382,18 @@
           "logo_url": "https://cdn.siege.gg/org-1172-shift.png",
           "name": "Shifters",
           "web_url": "https://siege.gg/teams/4-shifters"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/it.svg",
+          "logo_url": "https://cdn.siege.gg/org-520-hrtc-1.png",
+          "name": "Team Heretics",
+          "web_url": "https://siege.gg/teams/856-team-heretics"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/eu.svg",
+          "logo_url": "https://cdn.siege.gg/org-984-flcn.png",
+          "name": "Team Falcons",
+          "web_url": "https://siege.gg/teams/367-team-falcons"
         },
         {
           "flag": "https://cdn.siege.gg/flags/eu.svg",
@@ -412,7 +412,7 @@
       "venue": "",
       "web_url": "https://siege.gg/competitions/185-europe-mena-league-2026-stage-2"
     },
-    "updated": "2026-09-08T11:09:24.225908+00:00"
+    "updated": "2026-09-08T11:19:36.093985+00:00"
   },
   "187": {
     "bracket": [],
