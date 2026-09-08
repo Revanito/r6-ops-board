@@ -366,12 +366,6 @@
           "web_url": "https://siege.gg/teams/886-geekay-esports"
         },
         {
-          "flag": "https://cdn.siege.gg/flags/fr.svg",
-          "logo_url": "https://cdn.siege.gg/org-873-rebels-1.png",
-          "name": "Rebels Gaming",
-          "web_url": "https://siege.gg/teams/892-rebels-gaming"
-        },
-        {
           "flag": "https://cdn.siege.gg/flags/it.svg",
           "logo_url": "https://cdn.siege.gg/org-520-hrtc-1.png",
           "name": "Team Heretics",
@@ -406,13 +400,19 @@
           "logo_url": "https://cdn.siege.gg/org-1172-shift.png",
           "name": "Shifters",
           "web_url": "https://siege.gg/teams/4-shifters"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/fr.svg",
+          "logo_url": "https://cdn.siege.gg/org-873-rebels-1.png",
+          "name": "Rebels Gaming",
+          "web_url": "https://siege.gg/teams/892-rebels-gaming"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/185-europe-mena-league-2026-stage-2"
     },
-    "updated": "2026-09-08T07:14:26.884703+00:00"
+    "updated": "2026-09-08T07:24:58.938091+00:00"
   },
   "187": {
     "bracket": [],
