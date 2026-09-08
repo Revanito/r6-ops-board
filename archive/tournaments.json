@@ -348,24 +348,6 @@
       "region": "Europe",
       "teams": [
         {
-          "flag": "https://cdn.siege.gg/flags/eu.svg",
-          "logo_url": "https://cdn.siege.gg/org-984-flcn.png",
-          "name": "Team Falcons",
-          "web_url": "https://siege.gg/teams/367-team-falcons"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/eu.svg",
-          "logo_url": "https://cdn.siege.gg/org-1172-shift.png",
-          "name": "Shifters",
-          "web_url": "https://siege.gg/teams/4-shifters"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/fr.svg",
-          "logo_url": "https://cdn.siege.gg/org-873-rebels-1.png",
-          "name": "Rebels Gaming",
-          "web_url": "https://siege.gg/teams/892-rebels-gaming"
-        },
-        {
           "flag": "https://cdn.siege.gg/flags/it.svg",
           "logo_url": "https://cdn.siege.gg/org-520-hrtc-1.png",
           "name": "Team Heretics",
@@ -378,10 +360,16 @@
           "web_url": "https://siege.gg/teams/272-virtuspro"
         },
         {
+          "flag": "https://cdn.siege.gg/flags/un.svg",
+          "logo_url": "https://cdn.siege.gg/org-997-twmi.png",
+          "name": "Twisted Minds",
+          "web_url": "https://siege.gg/teams/641-twisted-minds"
+        },
+        {
           "flag": "https://cdn.siege.gg/flags/eu.svg",
-          "logo_url": "https://cdn.siege.gg/org-313-g2.png",
-          "name": "G2 Esports",
-          "web_url": "https://siege.gg/teams/1-g2-esports"
+          "logo_url": "https://cdn.siege.gg/org-1172-shift.png",
+          "name": "Shifters",
+          "web_url": "https://siege.gg/teams/4-shifters"
         },
         {
           "flag": "https://cdn.siege.gg/flags/eu.svg",
@@ -396,23 +384,35 @@
           "web_url": "https://siege.gg/teams/886-geekay-esports"
         },
         {
+          "flag": "https://cdn.siege.gg/flags/fr.svg",
+          "logo_url": "https://cdn.siege.gg/org-873-rebels-1.png",
+          "name": "Rebels Gaming",
+          "web_url": "https://siege.gg/teams/892-rebels-gaming"
+        },
+        {
           "flag": "https://cdn.siege.gg/flags/eu.svg",
           "logo_url": "https://cdn.siege.gg/org-26-fnc.png",
           "name": "Fnatic",
           "web_url": "https://siege.gg/teams/5-fnatic"
         },
         {
-          "flag": "https://cdn.siege.gg/flags/un.svg",
-          "logo_url": "https://cdn.siege.gg/org-997-twmi.png",
-          "name": "Twisted Minds",
-          "web_url": "https://siege.gg/teams/641-twisted-minds"
+          "flag": "https://cdn.siege.gg/flags/eu.svg",
+          "logo_url": "https://cdn.siege.gg/org-984-flcn.png",
+          "name": "Team Falcons",
+          "web_url": "https://siege.gg/teams/367-team-falcons"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/eu.svg",
+          "logo_url": "https://cdn.siege.gg/org-313-g2.png",
+          "name": "G2 Esports",
+          "web_url": "https://siege.gg/teams/1-g2-esports"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/185-europe-mena-league-2026-stage-2"
     },
-    "updated": "2026-09-08T10:18:26.502147+00:00"
+    "updated": "2026-09-08T10:28:38.001633+00:00"
   },
   "187": {
     "bracket": [],
