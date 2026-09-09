@@ -434,21 +434,9 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
-          "logo_url": "https://cdn.siege.gg/org-1221-5f.png",
-          "name": "Five Fears",
-          "web_url": "https://siege.gg/teams/776-five-fears"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/us.svg",
-          "logo_url": "https://cdn.siege.gg/org-1193-100t.png",
-          "name": "100 Thieves",
-          "web_url": "https://siege.gg/teams/40-100-thieves"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/us.svg",
-          "logo_url": "https://cdn.siege.gg/org-64-ssg-1.png",
-          "name": "Spacestation Gaming",
-          "web_url": "https://siege.gg/teams/868-spacestation-gaming"
+          "logo_url": "https://cdn.siege.gg/org-536-wc-1.png",
+          "name": "Wildcard",
+          "web_url": "https://siege.gg/teams/725-wildcard"
         },
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
@@ -458,9 +446,27 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
+          "logo_url": "https://cdn.siege.gg/org-64-ssg-1.png",
+          "name": "Spacestation Gaming",
+          "web_url": "https://siege.gg/teams/868-spacestation-gaming"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/us.svg",
+          "logo_url": "https://cdn.siege.gg/org-1221-5f.png",
+          "name": "Five Fears",
+          "web_url": "https://siege.gg/teams/776-five-fears"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/us.svg",
           "logo_url": "https://cdn.siege.gg/org-1201-otlna.png",
           "name": "Outlast",
           "web_url": "https://siege.gg/teams/927-outlast"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/us.svg",
+          "logo_url": "https://cdn.siege.gg/org-1193-100t.png",
+          "name": "100 Thieves",
+          "web_url": "https://siege.gg/teams/40-100-thieves"
         },
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
@@ -476,12 +482,6 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
-          "logo_url": "https://cdn.siege.gg/org-536-wc-1.png",
-          "name": "Wildcard",
-          "web_url": "https://siege.gg/teams/725-wildcard"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/us.svg",
           "logo_url": "https://cdn.siege.gg/org-1245-4fun.png",
           "name": "For Fun Esports",
           "web_url": "https://siege.gg/teams/930-for-fun-esports"
@@ -491,7 +491,7 @@
       "venue": "",
       "web_url": "https://siege.gg/competitions/186-north-america-league-2026-stage-2"
     },
-    "updated": "2026-09-09T23:15:53.801869+00:00"
+    "updated": "2026-09-09T23:26:06.163598+00:00"
   },
   "187": {
     "bracket": [],
