@@ -524,12 +524,6 @@
       "region": "Asia-Pacific",
       "teams": [
         {
-          "flag": "https://cdn.siege.gg/flags/th.svg",
-          "logo_url": "https://cdn.siege.gg/org-889-shrpr.png",
-          "name": "Sharper Esports",
-          "web_url": "https://siege.gg/teams/102-sharper-esports"
-        },
-        {
           "flag": "https://cdn.siege.gg/flags/asean.svg",
           "logo_url": "https://cdn.siege.gg/org-91-elv.png",
           "name": "Elevate",
@@ -570,13 +564,19 @@
           "logo_url": "https://cdn.siege.gg/r6x-icon.png",
           "name": "Dolphins Esports",
           "web_url": "https://siege.gg/teams/964-dolphins-esports"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/th.svg",
+          "logo_url": "https://cdn.siege.gg/org-889-shrpr.png",
+          "name": "Sharper Esports",
+          "web_url": "https://siege.gg/teams/102-sharper-esports"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/188-apac-asia-league-2026-stage-2"
     },
-    "updated": "2026-09-09T14:55:03.441331+00:00"
+    "updated": "2026-09-09T15:05:19.152178+00:00"
   },
   "189": {
     "bracket": [],
