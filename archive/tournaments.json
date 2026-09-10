@@ -585,24 +585,6 @@
       "region": "Asia-Pacific",
       "teams": [
         {
-          "flag": "https://cdn.siege.gg/flags/un.svg",
-          "logo_url": "https://cdn.siege.gg/org-1128-weibo.png",
-          "name": "Weibo Gaming",
-          "web_url": "https://siege.gg/teams/742-weibo-gaming"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/tw.svg",
-          "logo_url": "https://cdn.siege.gg/org-1088-day.png",
-          "name": "Daystar",
-          "web_url": "https://siege.gg/teams/475-daystar"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/un.svg",
-          "logo_url": "https://cdn.siege.gg/r6x-icon.png",
-          "name": "leftovers (team asia)",
-          "web_url": "https://siege.gg/teams/1299-leftovers-team-asia"
-        },
-        {
           "flag": "https://cdn.siege.gg/flags/asean.svg",
           "logo_url": "https://cdn.siege.gg/r6x-icon.png",
           "name": "999",
@@ -631,13 +613,31 @@
           "logo_url": "https://cdn.siege.gg/org-889-shrpr.png",
           "name": "Sharper Esports",
           "web_url": "https://siege.gg/teams/102-sharper-esports"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/un.svg",
+          "logo_url": "https://cdn.siege.gg/org-1128-weibo.png",
+          "name": "Weibo Gaming",
+          "web_url": "https://siege.gg/teams/742-weibo-gaming"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/tw.svg",
+          "logo_url": "https://cdn.siege.gg/org-1088-day.png",
+          "name": "Daystar",
+          "web_url": "https://siege.gg/teams/475-daystar"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/un.svg",
+          "logo_url": "https://cdn.siege.gg/r6x-icon.png",
+          "name": "leftovers (team asia)",
+          "web_url": "https://siege.gg/teams/1299-leftovers-team-asia"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/188-apac-asia-league-2026-stage-2"
     },
-    "updated": "2026-09-10T10:49:51.001035+00:00"
+    "updated": "2026-09-10T11:00:05.428625+00:00"
   },
   "189": {
     "bracket": [],
