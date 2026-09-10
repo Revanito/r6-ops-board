@@ -452,6 +452,12 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
+          "logo_url": "https://cdn.siege.gg/org-1201-otlna.png",
+          "name": "Outlast",
+          "web_url": "https://siege.gg/teams/927-outlast"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/us.svg",
           "logo_url": "https://cdn.siege.gg/org-1193-100t.png",
           "name": "100 Thieves",
           "web_url": "https://siege.gg/teams/40-100-thieves"
@@ -476,12 +482,6 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
-          "logo_url": "https://cdn.siege.gg/org-1201-otlna.png",
-          "name": "Outlast",
-          "web_url": "https://siege.gg/teams/927-outlast"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/us.svg",
           "logo_url": "https://cdn.siege.gg/org-177-c9.png",
           "name": "Cloud9",
           "web_url": "https://siege.gg/teams/738-cloud9"
@@ -491,7 +491,7 @@
       "venue": "",
       "web_url": "https://siege.gg/competitions/186-north-america-league-2026-stage-2"
     },
-    "updated": "2026-09-10T00:17:08.318082+00:00"
+    "updated": "2026-09-10T00:27:20.755101+00:00"
   },
   "187": {
     "bracket": [],
