@@ -586,12 +586,6 @@
       "teams": [
         {
           "flag": "https://cdn.siege.gg/flags/th.svg",
-          "logo_url": "https://cdn.siege.gg/org-475-fury.png",
-          "name": "FURY",
-          "web_url": "https://siege.gg/teams/962-fury"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/th.svg",
           "logo_url": "https://cdn.siege.gg/r6x-icon.png",
           "name": "Dolphins Esports",
           "web_url": "https://siege.gg/teams/964-dolphins-esports"
@@ -631,13 +625,19 @@
           "logo_url": "https://cdn.siege.gg/org-91-elv.png",
           "name": "Elevate",
           "web_url": "https://siege.gg/teams/963-elevate"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/th.svg",
+          "logo_url": "https://cdn.siege.gg/org-475-fury.png",
+          "name": "FURY",
+          "web_url": "https://siege.gg/teams/962-fury"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/188-apac-asia-league-2026-stage-2"
     },
-    "updated": "2026-09-10T06:34:49.084738+00:00"
+    "updated": "2026-09-10T06:45:00.406094+00:00"
   },
   "189": {
     "bracket": [],
