@@ -434,15 +434,9 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
-          "logo_url": "https://cdn.siege.gg/org-1201-otlna.png",
-          "name": "Outlast",
-          "web_url": "https://siege.gg/teams/927-outlast"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/us.svg",
-          "logo_url": "https://cdn.siege.gg/org-1193-100t.png",
-          "name": "100 Thieves",
-          "web_url": "https://siege.gg/teams/40-100-thieves"
+          "logo_url": "https://cdn.siege.gg/org-177-c9.png",
+          "name": "Cloud9",
+          "web_url": "https://siege.gg/teams/738-cloud9"
         },
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
@@ -458,6 +452,12 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
+          "logo_url": "https://cdn.siege.gg/org-64-ssg-1.png",
+          "name": "Spacestation Gaming",
+          "web_url": "https://siege.gg/teams/868-spacestation-gaming"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/us.svg",
           "logo_url": "https://cdn.siege.gg/org-963-m80-1.png",
           "name": "M80",
           "web_url": "https://siege.gg/teams/652-m80"
@@ -470,28 +470,28 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
-          "logo_url": "https://cdn.siege.gg/org-177-c9.png",
-          "name": "Cloud9",
-          "web_url": "https://siege.gg/teams/738-cloud9"
+          "logo_url": "https://cdn.siege.gg/org-1201-otlna.png",
+          "name": "Outlast",
+          "web_url": "https://siege.gg/teams/927-outlast"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/us.svg",
+          "logo_url": "https://cdn.siege.gg/org-1193-100t.png",
+          "name": "100 Thieves",
+          "web_url": "https://siege.gg/teams/40-100-thieves"
         },
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
           "logo_url": "https://cdn.siege.gg/org-357-dzro.png",
           "name": "DarkZero Esports",
           "web_url": "https://siege.gg/teams/465-darkzero-esports"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/us.svg",
-          "logo_url": "https://cdn.siege.gg/org-64-ssg-1.png",
-          "name": "Spacestation Gaming",
-          "web_url": "https://siege.gg/teams/868-spacestation-gaming"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/186-north-america-league-2026-stage-2"
     },
-    "updated": "2026-09-10T17:08:47.254516+00:00"
+    "updated": "2026-09-10T17:19:01.446325+00:00"
   },
   "187": {
     "bracket": [],
