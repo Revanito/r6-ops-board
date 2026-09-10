@@ -585,18 +585,6 @@
       "region": "Asia-Pacific",
       "teams": [
         {
-          "flag": "https://cdn.siege.gg/flags/asean.svg",
-          "logo_url": "https://cdn.siege.gg/r6x-icon.png",
-          "name": "999",
-          "web_url": "https://siege.gg/teams/1300-999"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/asean.svg",
-          "logo_url": "https://cdn.siege.gg/org-91-elv.png",
-          "name": "Elevate",
-          "web_url": "https://siege.gg/teams/963-elevate"
-        },
-        {
           "flag": "https://cdn.siege.gg/flags/th.svg",
           "logo_url": "https://cdn.siege.gg/org-475-fury.png",
           "name": "FURY",
@@ -631,13 +619,25 @@
           "logo_url": "https://cdn.siege.gg/r6x-icon.png",
           "name": "leftovers (team asia)",
           "web_url": "https://siege.gg/teams/1299-leftovers-team-asia"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/asean.svg",
+          "logo_url": "https://cdn.siege.gg/r6x-icon.png",
+          "name": "999",
+          "web_url": "https://siege.gg/teams/1300-999"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/asean.svg",
+          "logo_url": "https://cdn.siege.gg/org-91-elv.png",
+          "name": "Elevate",
+          "web_url": "https://siege.gg/teams/963-elevate"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/188-apac-asia-league-2026-stage-2"
     },
-    "updated": "2026-09-10T12:32:20.759320+00:00"
+    "updated": "2026-09-10T12:42:36.045080+00:00"
   },
   "189": {
     "bracket": [],
