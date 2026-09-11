@@ -653,30 +653,6 @@
       "teams": [
         {
           "flag": "https://cdn.siege.gg/flags/jp.svg",
-          "logo_url": "https://cdn.siege.gg/org-377-scrz-2.png",
-          "name": "SCARZ",
-          "web_url": "https://siege.gg/teams/676-scarz"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/jp.svg",
-          "logo_url": "https://cdn.siege.gg/org-1241-cybme.png",
-          "name": "Can You Be My Enemy",
-          "web_url": "https://siege.gg/teams/966-can-you-be-my-enemy"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/jp.svg",
-          "logo_url": "https://cdn.siege.gg/org-1058-kntrp.png",
-          "name": "KINOTROPE gaming",
-          "web_url": "https://siege.gg/teams/675-kinotrope-gaming"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/kr.svg",
-          "logo_url": "https://cdn.siege.gg/org-1057-fearx.png",
-          "name": "FearX",
-          "web_url": "https://siege.gg/teams/965-fearx"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/jp.svg",
           "logo_url": "https://cdn.siege.gg/org-1257-rrx.png",
           "name": "RRX",
           "web_url": "https://siege.gg/teams/698-rrx"
@@ -698,13 +674,37 @@
           "logo_url": "https://cdn.siege.gg/org-1277-cagv.png",
           "name": "CAG by VARREL",
           "web_url": "https://siege.gg/teams/108-cag-by-varrel"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/jp.svg",
+          "logo_url": "https://cdn.siege.gg/org-377-scrz-2.png",
+          "name": "SCARZ",
+          "web_url": "https://siege.gg/teams/676-scarz"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/jp.svg",
+          "logo_url": "https://cdn.siege.gg/org-1241-cybme.png",
+          "name": "Can You Be My Enemy",
+          "web_url": "https://siege.gg/teams/966-can-you-be-my-enemy"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/jp.svg",
+          "logo_url": "https://cdn.siege.gg/org-1058-kntrp.png",
+          "name": "KINOTROPE gaming",
+          "web_url": "https://siege.gg/teams/675-kinotrope-gaming"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/kr.svg",
+          "logo_url": "https://cdn.siege.gg/org-1057-fearx.png",
+          "name": "FearX",
+          "web_url": "https://siege.gg/teams/965-fearx"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/189-apac-north-league-2026-stage-2"
     },
-    "updated": "2026-09-11T10:52:56.184279+00:00"
+    "updated": "2026-09-11T11:03:11.097240+00:00"
   },
   "190": {
     "bracket": [],
