@@ -652,24 +652,6 @@
       "region": "Asia-Pacific",
       "teams": [
         {
-          "flag": "https://cdn.siege.gg/flags/kr.svg",
-          "logo_url": "https://cdn.siege.gg/org-491-trip.png",
-          "name": "TRIPPY",
-          "web_url": "https://siege.gg/teams/474-trippy"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/jp.svg",
-          "logo_url": "https://cdn.siege.gg/org-1277-cagv.png",
-          "name": "CAG by VARREL",
-          "web_url": "https://siege.gg/teams/108-cag-by-varrel"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/jp.svg",
-          "logo_url": "https://cdn.siege.gg/org-377-scrz-2.png",
-          "name": "SCARZ",
-          "web_url": "https://siege.gg/teams/676-scarz"
-        },
-        {
           "flag": "https://cdn.siege.gg/flags/jp.svg",
           "logo_url": "https://cdn.siege.gg/org-1241-cybme.png",
           "name": "Can You Be My Enemy",
@@ -698,13 +680,31 @@
           "logo_url": "https://cdn.siege.gg/org-964-dplus.png",
           "name": "Dplus KIA",
           "web_url": "https://siege.gg/teams/902-dplus-kia"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/kr.svg",
+          "logo_url": "https://cdn.siege.gg/org-491-trip.png",
+          "name": "TRIPPY",
+          "web_url": "https://siege.gg/teams/474-trippy"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/jp.svg",
+          "logo_url": "https://cdn.siege.gg/org-1277-cagv.png",
+          "name": "CAG by VARREL",
+          "web_url": "https://siege.gg/teams/108-cag-by-varrel"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/jp.svg",
+          "logo_url": "https://cdn.siege.gg/org-377-scrz-2.png",
+          "name": "SCARZ",
+          "web_url": "https://siege.gg/teams/676-scarz"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/189-apac-north-league-2026-stage-2"
     },
-    "updated": "2026-09-11T07:38:33.930054+00:00"
+    "updated": "2026-09-11T08:19:28.959056+00:00"
   },
   "190": {
     "bracket": [],
