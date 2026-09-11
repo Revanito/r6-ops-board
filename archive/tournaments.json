@@ -653,30 +653,6 @@
       "teams": [
         {
           "flag": "https://cdn.siege.gg/flags/jp.svg",
-          "logo_url": "https://cdn.siege.gg/org-1257-rrx.png",
-          "name": "RRX",
-          "web_url": "https://siege.gg/teams/698-rrx"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-964-dplus.png",
-          "name": "Dplus KIA",
-          "web_url": "https://siege.gg/teams/902-dplus-kia"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/kr.svg",
-          "logo_url": "https://cdn.siege.gg/org-491-trip.png",
-          "name": "TRIPPY",
-          "web_url": "https://siege.gg/teams/474-trippy"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/jp.svg",
-          "logo_url": "https://cdn.siege.gg/org-1277-cagv.png",
-          "name": "CAG by VARREL",
-          "web_url": "https://siege.gg/teams/108-cag-by-varrel"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/jp.svg",
           "logo_url": "https://cdn.siege.gg/org-377-scrz-2.png",
           "name": "SCARZ",
           "web_url": "https://siege.gg/teams/676-scarz"
@@ -698,13 +674,37 @@
           "logo_url": "https://cdn.siege.gg/org-1057-fearx.png",
           "name": "FearX",
           "web_url": "https://siege.gg/teams/965-fearx"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/jp.svg",
+          "logo_url": "https://cdn.siege.gg/org-1257-rrx.png",
+          "name": "RRX",
+          "web_url": "https://siege.gg/teams/698-rrx"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/br.svg",
+          "logo_url": "https://cdn.siege.gg/org-964-dplus.png",
+          "name": "Dplus KIA",
+          "web_url": "https://siege.gg/teams/902-dplus-kia"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/kr.svg",
+          "logo_url": "https://cdn.siege.gg/org-491-trip.png",
+          "name": "TRIPPY",
+          "web_url": "https://siege.gg/teams/474-trippy"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/jp.svg",
+          "logo_url": "https://cdn.siege.gg/org-1277-cagv.png",
+          "name": "CAG by VARREL",
+          "web_url": "https://siege.gg/teams/108-cag-by-varrel"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/189-apac-north-league-2026-stage-2"
     },
-    "updated": "2026-09-11T11:03:11.097240+00:00"
+    "updated": "2026-09-11T11:13:24.237850+00:00"
   },
   "190": {
     "bracket": [],
