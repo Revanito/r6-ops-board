@@ -507,27 +507,21 @@
       "teams": [
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-9-bd-1.png",
-          "name": "Black Dragons",
-          "web_url": "https://siege.gg/teams/900-black-dragons"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/br.svg",
           "logo_url": "https://cdn.siege.gg/org-625-furia.png",
           "name": "FURIA Esports",
           "web_url": "https://siege.gg/teams/946-furia-esports"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-1017-los.png",
-          "name": "LOS",
-          "web_url": "https://siege.gg/teams/947-los"
+          "logo_url": "https://cdn.siege.gg/org-1303-l5.png",
+          "name": "Lucky Five",
+          "web_url": "https://siege.gg/teams/18-lucky-five"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-69-tl-3.png",
-          "name": "Team Liquid",
-          "web_url": "https://siege.gg/teams/285-team-liquid"
+          "logo_url": "https://cdn.siege.gg/org-1017-los.png",
+          "name": "LOS",
+          "web_url": "https://siege.gg/teams/947-los"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
@@ -543,15 +537,21 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-1303-l5.png",
-          "name": "Lucky Five",
-          "web_url": "https://siege.gg/teams/18-lucky-five"
+          "logo_url": "https://cdn.siege.gg/org-9-bd-1.png",
+          "name": "Black Dragons",
+          "web_url": "https://siege.gg/teams/900-black-dragons"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
           "logo_url": "https://cdn.siege.gg/org-1144-loud.png",
           "name": "LOUD",
           "web_url": "https://siege.gg/teams/759-loud"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/br.svg",
+          "logo_url": "https://cdn.siege.gg/org-69-tl-3.png",
+          "name": "Team Liquid",
+          "web_url": "https://siege.gg/teams/285-team-liquid"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
@@ -570,7 +570,7 @@
       "venue": "",
       "web_url": "https://siege.gg/competitions/187-south-america-league-2026-stage-2"
     },
-    "updated": "2026-09-12T16:46:38.348561+00:00"
+    "updated": "2026-09-12T16:56:54.134483+00:00"
   },
   "188": {
     "bracket": [],
