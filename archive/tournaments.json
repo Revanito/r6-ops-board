@@ -428,6 +428,36 @@
       "teams": [
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
+          "logo_url": "https://cdn.siege.gg/org-177-c9.png",
+          "name": "Cloud9",
+          "web_url": "https://siege.gg/teams/738-cloud9"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/us.svg",
+          "logo_url": "https://cdn.siege.gg/org-1245-4fun.png",
+          "name": "For Fun Esports",
+          "web_url": "https://siege.gg/teams/930-for-fun-esports"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/us.svg",
+          "logo_url": "https://cdn.siege.gg/org-64-ssg-1.png",
+          "name": "Spacestation Gaming",
+          "web_url": "https://siege.gg/teams/868-spacestation-gaming"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/us.svg",
+          "logo_url": "https://cdn.siege.gg/org-963-m80-1.png",
+          "name": "M80",
+          "web_url": "https://siege.gg/teams/652-m80"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/us.svg",
+          "logo_url": "https://cdn.siege.gg/org-1122-shop.png",
+          "name": "Shopify Rebellion",
+          "web_url": "https://siege.gg/teams/125-shopify-rebellion"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/us.svg",
           "logo_url": "https://cdn.siege.gg/org-1221-5f.png",
           "name": "Five Fears",
           "web_url": "https://siege.gg/teams/776-five-fears"
@@ -440,9 +470,9 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
-          "logo_url": "https://cdn.siege.gg/org-177-c9.png",
-          "name": "Cloud9",
-          "web_url": "https://siege.gg/teams/738-cloud9"
+          "logo_url": "https://cdn.siege.gg/org-1193-100t.png",
+          "name": "100 Thieves",
+          "web_url": "https://siege.gg/teams/40-100-thieves"
         },
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
@@ -452,46 +482,16 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/us.svg",
-          "logo_url": "https://cdn.siege.gg/org-963-m80-1.png",
-          "name": "M80",
-          "web_url": "https://siege.gg/teams/652-m80"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/us.svg",
-          "logo_url": "https://cdn.siege.gg/org-64-ssg-1.png",
-          "name": "Spacestation Gaming",
-          "web_url": "https://siege.gg/teams/868-spacestation-gaming"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/us.svg",
-          "logo_url": "https://cdn.siege.gg/org-1122-shop.png",
-          "name": "Shopify Rebellion",
-          "web_url": "https://siege.gg/teams/125-shopify-rebellion"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/us.svg",
-          "logo_url": "https://cdn.siege.gg/org-1193-100t.png",
-          "name": "100 Thieves",
-          "web_url": "https://siege.gg/teams/40-100-thieves"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/us.svg",
           "logo_url": "https://cdn.siege.gg/org-536-wc-1.png",
           "name": "Wildcard",
           "web_url": "https://siege.gg/teams/725-wildcard"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/us.svg",
-          "logo_url": "https://cdn.siege.gg/org-1245-4fun.png",
-          "name": "For Fun Esports",
-          "web_url": "https://siege.gg/teams/930-for-fun-esports"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/186-north-america-league-2026-stage-2"
     },
-    "updated": "2026-09-12T00:01:29.673686+00:00"
+    "updated": "2026-09-12T00:11:44.925998+00:00"
   },
   "187": {
     "bracket": [],
