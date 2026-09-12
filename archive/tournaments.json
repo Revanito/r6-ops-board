@@ -786,34 +786,28 @@
       "region": "Asia-Pacific",
       "teams": [
         {
-          "flag": "https://cdn.siege.gg/flags/cn.svg",
-          "logo_url": "https://cdn.siege.gg/org-1298-lgd.png",
-          "name": "LGD Gaming",
-          "web_url": "https://siege.gg/teams/950-lgd-gaming"
+          "flag": "https://cdn.siege.gg/flags/un.svg",
+          "logo_url": "https://cdn.siege.gg/org-1230-onec.png",
+          "name": "One Coin",
+          "web_url": "https://siege.gg/teams/955-one-coin"
         },
         {
           "flag": "https://cdn.siege.gg/flags/cn.svg",
-          "logo_url": "https://cdn.siege.gg/org-1244-pozy.png",
-          "name": "POZY",
-          "web_url": "https://siege.gg/teams/973-pozy"
+          "logo_url": "https://cdn.siege.gg/org-1227-tec.png",
+          "name": "Titan Esports Club",
+          "web_url": "https://siege.gg/teams/951-titan-esports-club"
         },
         {
           "flag": "https://cdn.siege.gg/flags/cn.svg",
-          "logo_url": "https://cdn.siege.gg/org-1184-algm.png",
-          "name": "All Gamers",
-          "web_url": "https://siege.gg/teams/909-all-gamers"
+          "logo_url": "https://cdn.siege.gg/org-1185-fam.png",
+          "name": "Four Angry Men",
+          "web_url": "https://siege.gg/teams/910-four-angry-men"
         },
         {
           "flag": "https://cdn.siege.gg/flags/hk.svg",
           "logo_url": "https://cdn.siege.gg/org-1225-kz.png",
           "name": "KINGZERO eSports",
           "web_url": "https://siege.gg/teams/949-kingzero-esports"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/tw.svg",
-          "logo_url": "https://cdn.siege.gg/org-1228-tyl.png",
-          "name": "TYLOO",
-          "web_url": "https://siege.gg/teams/952-tyloo"
         },
         {
           "flag": "https://cdn.siege.gg/flags/cn.svg",
@@ -829,27 +823,33 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/cn.svg",
-          "logo_url": "https://cdn.siege.gg/org-1227-tec.png",
-          "name": "Titan Esports Club",
-          "web_url": "https://siege.gg/teams/951-titan-esports-club"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/un.svg",
-          "logo_url": "https://cdn.siege.gg/org-1230-onec.png",
-          "name": "One Coin",
-          "web_url": "https://siege.gg/teams/955-one-coin"
+          "logo_url": "https://cdn.siege.gg/org-1244-pozy.png",
+          "name": "POZY",
+          "web_url": "https://siege.gg/teams/973-pozy"
         },
         {
           "flag": "https://cdn.siege.gg/flags/cn.svg",
-          "logo_url": "https://cdn.siege.gg/org-1185-fam.png",
-          "name": "Four Angry Men",
-          "web_url": "https://siege.gg/teams/910-four-angry-men"
+          "logo_url": "https://cdn.siege.gg/org-1184-algm.png",
+          "name": "All Gamers",
+          "web_url": "https://siege.gg/teams/909-all-gamers"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/tw.svg",
+          "logo_url": "https://cdn.siege.gg/org-1228-tyl.png",
+          "name": "TYLOO",
+          "web_url": "https://siege.gg/teams/952-tyloo"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/cn.svg",
+          "logo_url": "https://cdn.siege.gg/org-1298-lgd.png",
+          "name": "LGD Gaming",
+          "web_url": "https://siege.gg/teams/950-lgd-gaming"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/191-china-league-2026-stage-2"
     },
-    "updated": "2026-09-12T10:37:22.756674+00:00"
+    "updated": "2026-09-12T10:47:38.091828+00:00"
   }
 }
