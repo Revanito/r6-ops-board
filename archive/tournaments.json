@@ -793,27 +793,21 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/cn.svg",
+          "logo_url": "https://cdn.siege.gg/org-1227-tec.png",
+          "name": "Titan Esports Club",
+          "web_url": "https://siege.gg/teams/951-titan-esports-club"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/cn.svg",
           "logo_url": "https://cdn.siege.gg/org-1298-lgd.png",
           "name": "LGD Gaming",
           "web_url": "https://siege.gg/teams/950-lgd-gaming"
         },
         {
           "flag": "https://cdn.siege.gg/flags/cn.svg",
-          "logo_url": "https://cdn.siege.gg/org-1185-fam.png",
-          "name": "Four Angry Men",
-          "web_url": "https://siege.gg/teams/910-four-angry-men"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/cn.svg",
           "logo_url": "https://cdn.siege.gg/org-1244-pozy.png",
           "name": "POZY",
           "web_url": "https://siege.gg/teams/973-pozy"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/cn.svg",
-          "logo_url": "https://cdn.siege.gg/org-1184-algm.png",
-          "name": "All Gamers",
-          "web_url": "https://siege.gg/teams/909-all-gamers"
         },
         {
           "flag": "https://cdn.siege.gg/flags/un.svg",
@@ -823,9 +817,15 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/cn.svg",
-          "logo_url": "https://cdn.siege.gg/org-1227-tec.png",
-          "name": "Titan Esports Club",
-          "web_url": "https://siege.gg/teams/951-titan-esports-club"
+          "logo_url": "https://cdn.siege.gg/org-1185-fam.png",
+          "name": "Four Angry Men",
+          "web_url": "https://siege.gg/teams/910-four-angry-men"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/cn.svg",
+          "logo_url": "https://cdn.siege.gg/org-1184-algm.png",
+          "name": "All Gamers",
+          "web_url": "https://siege.gg/teams/909-all-gamers"
         },
         {
           "flag": "https://cdn.siege.gg/flags/hk.svg",
@@ -850,6 +850,6 @@
       "venue": "",
       "web_url": "https://siege.gg/competitions/191-china-league-2026-stage-2"
     },
-    "updated": "2026-09-12T12:09:38.044140+00:00"
+    "updated": "2026-09-12T12:19:53.119496+00:00"
   }
 }
