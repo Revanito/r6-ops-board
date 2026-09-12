@@ -200,10 +200,20 @@
     "watch_time": "Watch 1h"
   },
   "R6S S2 2026 3|Esports Pack 26 stage 2|Watch 1h": {
-    "active": true,
+    "active": false,
     "campaign": "R6S S2 2026 3",
-    "campaign_dates": "Sep 9 — in 27m",
+    "campaign_dates": "Sep 9 — expired",
     "first_seen": "2026-09-09",
+    "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/13a54c74-abd7-4d8f-aaf6-375fb99cf382.jpeg",
+    "last_seen": "2026-09-12",
+    "name": "Esports Pack 26 stage 2",
+    "watch_time": "Watch 1h"
+  },
+  "R6S S2 2026 4|Esports Pack 26 stage 2|Watch 1h": {
+    "active": true,
+    "campaign": "R6S S2 2026 4",
+    "campaign_dates": "Sep 12 — in 2 days",
+    "first_seen": "2026-09-12",
     "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/13a54c74-abd7-4d8f-aaf6-375fb99cf382.jpeg",
     "last_seen": "2026-09-12",
     "name": "Esports Pack 26 stage 2",
