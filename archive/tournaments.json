@@ -513,15 +513,9 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-24-faze-1.png",
-          "name": "FaZe Clan",
-          "web_url": "https://siege.gg/teams/50-faze-clan"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-1186-imp.png",
-          "name": "Imperial Esports",
-          "web_url": "https://siege.gg/teams/877-imperial-esports"
+          "logo_url": "https://cdn.siege.gg/org-150-intz.png",
+          "name": "INTZ",
+          "web_url": "https://siege.gg/teams/915-intz"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
@@ -531,9 +525,9 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-1303-l5.png",
-          "name": "Lucky Five",
-          "web_url": "https://siege.gg/teams/18-lucky-five"
+          "logo_url": "https://cdn.siege.gg/org-1144-loud.png",
+          "name": "LOUD",
+          "web_url": "https://siege.gg/teams/759-loud"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
@@ -543,9 +537,15 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-150-intz.png",
-          "name": "INTZ",
-          "web_url": "https://siege.gg/teams/915-intz"
+          "logo_url": "https://cdn.siege.gg/org-24-faze-1.png",
+          "name": "FaZe Clan",
+          "web_url": "https://siege.gg/teams/50-faze-clan"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/br.svg",
+          "logo_url": "https://cdn.siege.gg/org-1186-imp.png",
+          "name": "Imperial Esports",
+          "web_url": "https://siege.gg/teams/877-imperial-esports"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
@@ -561,16 +561,16 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-1144-loud.png",
-          "name": "LOUD",
-          "web_url": "https://siege.gg/teams/759-loud"
+          "logo_url": "https://cdn.siege.gg/org-1303-l5.png",
+          "name": "Lucky Five",
+          "web_url": "https://siege.gg/teams/18-lucky-five"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/187-south-america-league-2026-stage-2"
     },
-    "updated": "2026-09-12T21:03:02.400365+00:00"
+    "updated": "2026-09-12T21:13:19.089999+00:00"
   },
   "188": {
     "bracket": [],
