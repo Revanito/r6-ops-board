@@ -507,12 +507,6 @@
       "teams": [
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-69-tl-3.png",
-          "name": "Team Liquid",
-          "web_url": "https://siege.gg/teams/285-team-liquid"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/br.svg",
           "logo_url": "https://cdn.siege.gg/org-24-faze-1.png",
           "name": "FaZe Clan",
           "web_url": "https://siege.gg/teams/50-faze-clan"
@@ -525,9 +519,9 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-1303-l5.png",
-          "name": "Lucky Five",
-          "web_url": "https://siege.gg/teams/18-lucky-five"
+          "logo_url": "https://cdn.siege.gg/org-1171-fw7m.png",
+          "name": "Fluxo W7M",
+          "web_url": "https://siege.gg/teams/674-fluxo-w7m"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
@@ -537,21 +531,27 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
+          "logo_url": "https://cdn.siege.gg/org-1303-l5.png",
+          "name": "Lucky Five",
+          "web_url": "https://siege.gg/teams/18-lucky-five"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/br.svg",
           "logo_url": "https://cdn.siege.gg/org-1017-los.png",
           "name": "LOS",
           "web_url": "https://siege.gg/teams/947-los"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-150-intz.png",
-          "name": "INTZ",
-          "web_url": "https://siege.gg/teams/915-intz"
+          "logo_url": "https://cdn.siege.gg/org-69-tl-3.png",
+          "name": "Team Liquid",
+          "web_url": "https://siege.gg/teams/285-team-liquid"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-1171-fw7m.png",
-          "name": "Fluxo W7M",
-          "web_url": "https://siege.gg/teams/674-fluxo-w7m"
+          "logo_url": "https://cdn.siege.gg/org-150-intz.png",
+          "name": "INTZ",
+          "web_url": "https://siege.gg/teams/915-intz"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
@@ -570,7 +570,7 @@
       "venue": "",
       "web_url": "https://siege.gg/competitions/187-south-america-league-2026-stage-2"
     },
-    "updated": "2026-09-13T20:40:00.887060+00:00"
+    "updated": "2026-09-13T20:50:16.192763+00:00"
   },
   "188": {
     "bracket": [],
