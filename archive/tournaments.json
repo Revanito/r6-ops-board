@@ -507,9 +507,15 @@
       "teams": [
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-1171-fw7m.png",
-          "name": "Fluxo W7M",
-          "web_url": "https://siege.gg/teams/674-fluxo-w7m"
+          "logo_url": "https://cdn.siege.gg/org-150-intz.png",
+          "name": "INTZ",
+          "web_url": "https://siege.gg/teams/915-intz"
+        },
+        {
+          "flag": "https://cdn.siege.gg/flags/br.svg",
+          "logo_url": "https://cdn.siege.gg/org-9-bd-1.png",
+          "name": "Black Dragons",
+          "web_url": "https://siege.gg/teams/900-black-dragons"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
@@ -522,12 +528,6 @@
           "logo_url": "https://cdn.siege.gg/org-1303-l5.png",
           "name": "Lucky Five",
           "web_url": "https://siege.gg/teams/18-lucky-five"
-        },
-        {
-          "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-1017-los.png",
-          "name": "LOS",
-          "web_url": "https://siege.gg/teams/947-los"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
@@ -549,9 +549,9 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-9-bd-1.png",
-          "name": "Black Dragons",
-          "web_url": "https://siege.gg/teams/900-black-dragons"
+          "logo_url": "https://cdn.siege.gg/org-1171-fw7m.png",
+          "name": "Fluxo W7M",
+          "web_url": "https://siege.gg/teams/674-fluxo-w7m"
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
@@ -561,16 +561,16 @@
         },
         {
           "flag": "https://cdn.siege.gg/flags/br.svg",
-          "logo_url": "https://cdn.siege.gg/org-150-intz.png",
-          "name": "INTZ",
-          "web_url": "https://siege.gg/teams/915-intz"
+          "logo_url": "https://cdn.siege.gg/org-1017-los.png",
+          "name": "LOS",
+          "web_url": "https://siege.gg/teams/947-los"
         }
       ],
       "type": "Online",
       "venue": "",
       "web_url": "https://siege.gg/competitions/187-south-america-league-2026-stage-2"
     },
-    "updated": "2026-09-14T00:13:12.800994+00:00"
+    "updated": "2026-09-14T00:23:27.655062+00:00"
   },
   "188": {
     "bracket": [],
