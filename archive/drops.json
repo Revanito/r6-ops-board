@@ -210,9 +210,9 @@
     "watch_time": "Watch 1h"
   },
   "R6S S2 2026 4|Esports Pack 26 stage 2|Watch 1h": {
-    "active": true,
+    "active": false,
     "campaign": "R6S S2 2026 4",
-    "campaign_dates": "Sep 12 — in 27m",
+    "campaign_dates": "Sep 12 — expired",
     "first_seen": "2026-09-12",
     "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/13a54c74-abd7-4d8f-aaf6-375fb99cf382.jpeg",
     "last_seen": "2026-09-14",
@@ -334,7 +334,7 @@
     "campaign": "",
     "first_seen": "2026-09-01",
     "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b9b9e5fd-e0b2-455c-8643-90795211fc3b.png",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-14",
     "name": "SMELLS LIKE BURNING",
     "watch_time": "Watch 3h"
   }
